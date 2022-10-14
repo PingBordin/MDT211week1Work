@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\MidTermTest1\bin\Debug\net6.0\MidTermTest1.exe
+C:\Users\acer\Desktop\MidTermTest1\bin\Debug\net6.0\MidTermTest1.deps.json
+C:\Users\acer\Desktop\MidTermTest1\bin\Debug\net6.0\MidTermTest1.runtimeconfig.json
+C:\Users\acer\Desktop\MidTermTest1\bin\Debug\net6.0\MidTermTest1.dll
+C:\Users\acer\Desktop\MidTermTest1\bin\Debug\net6.0\MidTermTest1.pdb
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.AssemblyInfo.cs
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.dll
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\refint\MidTermTest1.dll
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.pdb
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\MidTermTest1.genruntimeconfig.cache
+C:\Users\acer\Desktop\MidTermTest1\obj\Debug\net6.0\ref\MidTermTest1.dll
